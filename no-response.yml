@@ -18,7 +18,5 @@ jobs:
           closeComment: >
             This issue has been automatically closed because we haven't received a
             response from the original author 🙈. This automation helps keep the issue
-            have more information for us! 🙂
           daysUntilClose: 10
           responseRequiredLabel: needs-response
-          token: ${{ github.token }}
